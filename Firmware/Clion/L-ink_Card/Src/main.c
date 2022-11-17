@@ -417,6 +417,8 @@ int main(void)
    EpdW21Clear();
 
 
+
+
    EpdW21Display(nfcBuffer);
 
   /* USER CODE END 2 */
